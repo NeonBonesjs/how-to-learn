@@ -50,7 +50,6 @@
   z-index: 2;
   line-height: 25px;
   font-size: 18px;
-  z-index: 2;
   font-weight: 400;
   margin: 0;
 
@@ -72,7 +71,7 @@
   right: 0;
   z-index: 1;
   margin: 0;
-  padding: 0;;
+  padding: 0;
 }
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
@@ -95,8 +94,8 @@
 }
 .two-columns__brief{
   width: 175px;
-  line-height:1.2 ;
-  font-size:18px ;
+  line-height:1.2;
+  font-size:18px;
   font-weight: 400;
   color:#2f80ed;
   margin: 0;
@@ -110,15 +109,15 @@
 
 }
 .two-columns__paragraph{
-  line-height:34px ;
-  font-size:24px ;
+  line-height:34px;
+  font-size:24px;
   font-weight: 400;
   margin-bottom: 30px;
 
 }
 .two-columns__span-accent{
-  line-height:34px ;
-  font-size: 24px; ;
+  line-height:34px;
+  font-size: 24px;
   font-weight: 700;
 }
 .two-columns__paragraph:last-of-type{
@@ -131,8 +130,8 @@ margin-bottom: 0;
   width: 60%;
   margin: 0 auto 0 auto;
   text-align: center;
-  line-height:1.15 ;
-  font-size:60px ;
+  line-height:1.15;
+  font-size:60px;
   font-weight: 700;
 
 }
@@ -140,8 +139,8 @@ margin-bottom: 0;
   width: 60%;
   margin: 20px auto 0 auto;
   text-align: center;
-  line-height:34px ;
-  font-size:24px ;
+  line-height:34px;
+  font-size:24px;
   font-weight: 400;
 
 }
@@ -158,28 +157,28 @@ margin-bottom: 0;
   margin-top: 60px;
 }
 .table__heading{
-  line-height:1.15 ;
-  font-size:24px ;
+  line-height:1.15;
+  font-size:24px;
   font-weight: 700;
 }
 .table__text{
   margin-top: 20px;
-  line-height:1.2 ;
-  font-size:18px ;
+  line-height:1.2;
+  font-size:18px;
   font-weight: 400;
 }
 .section-title_theme_dark{
   color:white;
   z-index: 2;
-  line-height:1.15 ;
-  font-size:60px ;
+  line-height:1.15;
+  font-size:60px;
   font-weight: 700;
 }
 .section-subtitle_theme_dark{
   color:white;
   z-index: 2;
-  line-height:34px ;
-  font-size:24px ;
+  line-height:34px;
+  font-size:24px;
   font-weight: 400;
 }
 .table_theme_dark{
@@ -195,14 +194,14 @@ margin-bottom: 0;
 }
 .table__heading_theme_dark{
   color:white;
-  line-height:1.15 ;
-  font-size:24px ;
+  line-height:1.15;
+  font-size:24px;
   font-weight: 700;
 }
 .table__text_theme_dark{
   color:white;
-  line-height:1.2 ;
-  font-size:18px ;
+  line-height:1.2;
+  font-size:18px;
   font-weight: 400;
 }
 .feynman{
@@ -224,8 +223,8 @@ height: 890px;
   margin:100px auto 0 auto;
   width: 648px;
   text-align: center;
-  line-height:1.15 ;
-  font-size:120px ;
+  line-height:1.15;
+  font-size:120px;
   font-weight: 700;
   z-index: 2;
   position: relative;
@@ -233,8 +232,8 @@ height: 890px;
 .feynman__subtitle{
   margin: 70px auto 0 auto;
   text-align: center;
-  line-height:51px ;
-  font-size:36px ;
+  line-height:51px;
+  font-size:36px;
   font-weight: 400;
   z-index: 2;
   position: relative;
@@ -244,8 +243,8 @@ height: 890px;
   position: absolute;
   right: 48px;
   top: 50%;
-  line-height:51px ;
-  font-size:36px ;
+  line-height:51px;
+  font-size:36px;
   font-weight: 400;
   color:#2f80ed;
   text-decoration: none;
@@ -293,8 +292,8 @@ position: relative;
 }
 .footer__author{
   margin: 18px 0 18px 0;
-  line-height:25px ;
-  font-size:18px ;
+  line-height:25px;
+  font-size:18px;
   font-weight: 400;
   color:white;
 }
@@ -303,8 +302,8 @@ position: relative;
 
 }
 .footer__column-heading{
-  line-height:30px ;
-  font-size:18px ;
+  line-height:30px;
+  font-size:18px;
   font-weight: 700;
   color:white;
   margin-bottom: 20px;
@@ -314,8 +313,8 @@ position: relative;
   flex-direction: column;
 }
 .footer__column-link{
-  line-height:30px ;
-  font-size:18px ;
+  line-height:30px;
+  font-size:18px;
   font-weight: 400;
   text-decoration: none;
 color: white;
