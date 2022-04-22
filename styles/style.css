@@ -304,11 +304,11 @@ position: relative;
   color:white;
   margin: 0 0 20px 0;
 }
-.column__links{
+.footer__column-links{
   display: flex;
   flex-direction: column;
 }
-.column__links-list{
+.footer__column-links-list{
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -329,7 +329,7 @@ flex-direction: column;
   width: 16px;
   margin-right: 10px;
 }
-.icon-link:last-of-type{
+.footer__icon-link:last-of-type{
   margin-bottom: 16px;
 }
 
